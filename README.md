@@ -36,6 +36,7 @@
 | 智享K歌                 | v2.16.58    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智享K歌_2.16.58.2411111420.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 蓝音                    | v2.15.68    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/蓝音_2.15.68.2401261132.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 随畅KTV                 | v3.24.09.03 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/随畅KTV_v3.24.09.03-会员.apk) | 🟢    | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！     |
+| 蓝调KTV                 | v3.26.74    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/蓝调KTV_3.26.74.apk) | 🟢    | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！     |
 | 我的电视                | v1.3.9.8    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/my-tv-0_1.3.9.8.apk) | 🟢    | 无广无购物的电视直播，央视、卫视、地方频道，带直播源库       |
 | OurTV(我们的电视)       | v3.9.5      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/ourTV_3.9.5.apk) | 🔴    | **开发者收到制裁，已停止转播电视信号**                       |
 | 酷9直播                 | v1.7.3.3    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/酷9直播) | 🟢    | 免费的TV端电视直播软件，首次打开是空壳，依次打开**列表设置-列表订阅**，然后**点击直播源并重启**即可，播放流畅不卡顿。具体看文件夹说明 |
